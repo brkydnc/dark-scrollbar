@@ -1,5 +1,5 @@
 let state = {
-    enabled: false,
+    enabled: true,
 };
 
 const css = "html::-webkit-scrollbar {width: 16px;}html::-webkit-scrollbar-track {background: #050505;}html::-webkit-scrollbar-thumb {background: #303030;}html::-webkit-scrollbar-thumb:hover{background: #404040;}html::-webkit-scrollbar-thumb:active{background: #505050;}"

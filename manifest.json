@@ -3,7 +3,7 @@
 	"name": "Dark Scrollbar",
 	"description": "",
 	"version": "1.0",
-    "icons": {
+    	"icons": {
         "64": "icons/scroll-on-64.png",
         "128": "icons/scroll-on-128.png"
 	},
@@ -12,7 +12,7 @@
 	},
 	"permissions": ["<all_urls>", "tabs"],
 	"browser_action": {
-		"default_icon": "icons/scroll-off-64.png",
+		"default_icon": "icons/scroll-on-64.png",
         "default_title": "Dark Scrollbar"
 	},
 	"content_scripts": [
